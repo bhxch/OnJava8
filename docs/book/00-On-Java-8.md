@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/docs/images/cover.jpg" alt="cover" width="100%"/>
+    <img src="https://raw.githubusercontent.com/bhxch/OnJava8/read/docs/images/cover.jpg" alt="cover" width="100%"/>
 </div>
 
 <div style="page-break-after: always;"></div>

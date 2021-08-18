@@ -1,4 +1,4 @@
-<img width="180px" src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/assets/LogoMark.png">
+<img width="180px" src="https://raw.githubusercontent.com/bhxch/OnJava8/read/assets/LogoMark.png">
 
 # On Java 8
 

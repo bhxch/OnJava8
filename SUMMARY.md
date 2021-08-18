@@ -1,6 +1,6 @@
 
 
-### [译者的话](README.md)
+### [译者的话](docs/README.md)
 
 ### [封面](docs/book/00-On-Java-8.md)
 
