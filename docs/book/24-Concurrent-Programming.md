@@ -24,7 +24,7 @@
 
 本章是对并发概念最基本的介绍。虽然我们用到了现代的 Java 8 工具来演示原理，但还远未及全面论述并发。我的目标是为你提供足够的基础知识，使你能够把握问题的复杂性和危险性，从而安全地渡过这片鲨鱼肆虐的困难水域。
 
-更多繁琐和底层的细节，请参阅附录：[并发底层原理](https://github.com/LingCoder/OnJava8/blob/master/docs/book/Appendix-Low-Level-Concurrency.md)。要进一步深入这个领域，你还必须阅读 *Brian Goetz* 等人的 《Java Concurrency in Practice》。在撰写本文时，该书已有十多年的历史了，但它仍包含我们必须要了解和明白的知识要点。理想情况下，本章和上述附录是阅读该书的良好前提。另外，*Bill Venner* 的 《Inside the Java Virtual Machine》也很值得一看。它详细描述了包括线程在内的  JVM 的内部工作方式。
+更多繁琐和底层的细节，请参阅附录：[并发底层原理](./Appendix-Low-Level-Concurrency.md)。要进一步深入这个领域，你还必须阅读 *Brian Goetz* 等人的 《Java Concurrency in Practice》。在撰写本文时，该书已有十多年的历史了，但它仍包含我们必须要了解和明白的知识要点。理想情况下，本章和上述附录是阅读该书的良好前提。另外，*Bill Venner* 的 《Inside the Java Virtual Machine》也很值得一看。它详细描述了包括线程在内的  JVM 的内部工作方式。
 
 ## 术语问题
 
